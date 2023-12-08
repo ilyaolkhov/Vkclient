@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">firs_app</string>
+    <string name="templay_text">Кот Шрёдингера — мысленный эксперимент, предложенный одним из создателей квантовой механики Эрвином Шрёдингером в 1935 году при обсуждении физического смысла волновой</string>
+    <string name="navigation_item_main">Новости</string>>
+    <string name="navigation_item_favorite">избранное</string>>
+    <string name="navigation_item_profile">Профиль</string>>
+</resources>
